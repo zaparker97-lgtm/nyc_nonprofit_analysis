@@ -1,0 +1,6 @@
+BOROUGH,COUNTY,COUNTY_FIPS,TOTAL_POPULATION,BELOW_POVERTY,POVERTY_RATE,YEAR,SOURCE_TABLE
+Bronx,"Bronx County, New York",005,1411574,379925,26.9,2022,ACS 5-Year Subject Table S1701
+Brooklyn,"Kings County, New York",047,2653797,503524,19.0,2022,ACS 5-Year Subject Table S1701
+Manhattan,"New York County, New York",061,1599733,252677,15.8,2022,ACS 5-Year Subject Table S1701
+Queens,"Queens County, New York",081,2334022,272926,11.7,2022,ACS 5-Year Subject Table S1701
+Staten Island,"Richmond County, New York",085,487849,50556,10.4,2022,ACS 5-Year Subject Table S1701
