@@ -26,3 +26,10 @@ IRS Exempt Organizations Business Master File filtered to NYC (48,066 rows, 28 c
 3. Activate it: `source .venv/bin/activate`
 4. Install packages: `pip install -r requirements.txt`
 5. Open `analysis.ipynb` in Jupyter
+
+## Data Source
+IRS Exempt Organizations Business Master File, filtered to New York City.
+https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf
+
+## Acknowledgments
+I used Claude (Anthropic) for coding help and for talking through how to structure my analysis.
